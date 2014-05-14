@@ -31,7 +31,7 @@ Misc
 
 For any bugs, patches or suggestions for future development please contact
 Spyridon (Spiros) Mastorakis  <spiros[dot]mastorakis[at]gmail[dot]com> 
-or Christos Argyropoulos <cargious[at]netmode[dot]ntua[dot]gr>. 
+or Christos Argyropoulos <cargious[at]netmode[dot]ntua[dot]gr>.
 
 Disclosure
 ============
